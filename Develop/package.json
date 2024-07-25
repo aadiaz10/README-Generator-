@@ -1,0 +1,30 @@
+{
+  "name": "readme_info",
+  "version": "1.0.0",
+  "description": "this is package for my Readme generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aadiaz10/README-Generator-.git"
+  },
+  "keywords": [
+    "Description",
+    "Installation",
+    "Usage",
+    "Contributing",
+    "and",
+    "Tests"
+  ],
+  "author": "alex diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadiaz10/README-Generator-/issues"
+  },
+  "homepage": "https://github.com/aadiaz10/README-Generator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
